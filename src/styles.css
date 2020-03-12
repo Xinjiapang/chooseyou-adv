@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#leftButton {
+  position: absolute;
+  left: 70%;
+  top: 30%;
+}
+#middleButton {
+  position: absolute;
+  left: 70%;
+  top: 38%;
+}
+#rightButton {
+  position: absolute;
+  left: 70%;
+  top: 46%;
+}
